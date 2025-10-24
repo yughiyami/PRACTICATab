@@ -269,10 +269,13 @@ fun TabConLoading() {
 
 ## 📱 Capturas de Pantalla
 **PROBLEMA 1**
+
+
 ![alt text](image.png)
 
 **PROBLEMA 2**
 
+![alt text](image-1.png)
 
 
 
